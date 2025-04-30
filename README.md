@@ -1,2 +1,2 @@
 # Beaches
-This website is about bea
+This website is about beaches
